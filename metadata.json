@@ -1,0 +1,5 @@
+{
+  "name": "RadioSafe Analyzer",
+  "description": "Analyze music tracks for radio suitability, identifying explicit lyrics and providing intelligent insights.",
+  "requestFramePermissions": []
+}
